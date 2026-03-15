@@ -1,4 +1,4 @@
-# JANGO_PRACTIC_EGOR_ZHMUROV
+# DJANGO_PRACTIC_EGOR_ZHMUROV
 My first JANGO project
 
 ## 🛠️ Початок роботи (Setup Instructions)
